@@ -70,13 +70,6 @@ g++ solar.cpp -o solar -lopengl32 -lglu32 -lfreeglut
 ./solar
 ```
 
-## 📈 Possible Extensions
-
-- Modern OpenGL rendering (VBO / VAO + shaders)
-- Texture-mapped planets
-- Physically accurate orbital dynamics
-- Cross-platform support (Linux / macOS)
-
 ---
 
 ## 👤 Author
